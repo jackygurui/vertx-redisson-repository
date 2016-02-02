@@ -1,0 +1,13 @@
+{
+    "type": 0,
+    "gender": 0,
+    "fullName": "测试号码",
+    "birthDay": "2000-02-02",
+    "phoneNumber": "13623068463",
+    "area": 130000,
+    "province": 130800,
+    "city": 130803,
+    "callTime": 1451168741008,
+    "status": "UR",
+    "callType": "ENQ"
+}
